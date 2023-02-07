@@ -3,7 +3,7 @@
 </div>  
   
 
-### My name is Soulaiman Bouhlal, a computer science enthusiast. I began my journey into programming in 2020, starting with front-end development. I'm passionate about exploring the depths of computer science, and always strive to create something innovative and unique.
+<h1 align="center">My name is Soulaiman Bouhlal, a computer science enthusiast. I began my journey into programming in 2020, starting with front-end development. I'm passionate about exploring the depths of computer science, and always strive to create something innovative and unique.</h1>
  
  
    
